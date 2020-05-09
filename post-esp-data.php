@@ -3,11 +3,11 @@
 $servername = "localhost";
 
 
-$dbname = "taunin";
+$dbname = "id13555902_tauanin";
 
-$username = "root";
+$username = "id13555902_root";
 
-$password = "";
+$password = "@Tau4indry@@";
 
 // Keep this API Key value to be compatible with the ESP32 code provided in the project page. 
 // If you change this value, the ESP32 sketch needs to match
