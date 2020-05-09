@@ -1,23 +1,12 @@
 <?php
 
-/*
-  Rui Santos
-  Complete project details at https://RandomNerdTutorials.com/esp32-esp8266-mysql-database-php/
-  
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files.
-  
-  The above copyright notice and this permission notice shall be included in all
-  copies or substantial portions of the Software.
-*/
-
 $servername = "localhost";
 
-// REPLACE with your Database name
+
 $dbname = "taunin";
-// REPLACE with Database user
+
 $username = "root";
-// REPLACE with Database user password
+
 $password = "";
 
 // Keep this API Key value to be compatible with the ESP32 code provided in the project page. 
